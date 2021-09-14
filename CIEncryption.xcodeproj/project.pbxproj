@@ -25,6 +25,8 @@
 		8170AFF626EE94BA001DC547 /* decmsg1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8170AFF026EE94BA001DC547 /* decmsg1.txt */; };
 		8170AFF826EE9600001DC547 /* decmsg.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8170AFF726EE9600001DC547 /* decmsg.txt */; };
 		8170AFF926EE9600001DC547 /* decmsg.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8170AFF726EE9600001DC547 /* decmsg.txt */; };
+		8170AFFB26EEB5FF001DC547 /* decmsg4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8170AFFA26EEB5FF001DC547 /* decmsg4.txt */; };
+		8170AFFC26EEB5FF001DC547 /* decmsg4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8170AFFA26EEB5FF001DC547 /* decmsg4.txt */; };
 		F443FBD9ACCE28DB38695D42 /* Pods_CIEncryption.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1EC9CB59558B39A50776FDC5 /* Pods_CIEncryption.framework */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +57,7 @@
 		8170AFEF26EE94BA001DC547 /* decmsg2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = decmsg2.txt; sourceTree = "<group>"; };
 		8170AFF026EE94BA001DC547 /* decmsg1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = decmsg1.txt; sourceTree = "<group>"; };
 		8170AFF726EE9600001DC547 /* decmsg.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = decmsg.txt; sourceTree = "<group>"; };
+		8170AFFA26EEB5FF001DC547 /* decmsg4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = decmsg4.txt; sourceTree = "<group>"; };
 		8ABBD6E6E280A1F3453EF26A /* Pods-CIEncryption.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CIEncryption.release.xcconfig"; path = "Target Support Files/Pods-CIEncryption/Pods-CIEncryption.release.xcconfig"; sourceTree = "<group>"; };
 		CADCE2BCC83C47B5785F1FFD /* Pods-CIEncryption-CIEncryptionTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CIEncryption-CIEncryptionTests.debug.xcconfig"; path = "Target Support Files/Pods-CIEncryption-CIEncryptionTests/Pods-CIEncryption-CIEncryptionTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED739DE340870847BB0EE7CB /* Pods-CIEncryption-CIEncryptionTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CIEncryption-CIEncryptionTests.release.xcconfig"; path = "Target Support Files/Pods-CIEncryption-CIEncryptionTests/Pods-CIEncryption-CIEncryptionTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -119,6 +122,7 @@
 				8170AFF026EE94BA001DC547 /* decmsg1.txt */,
 				8170AFEF26EE94BA001DC547 /* decmsg2.txt */,
 				8170AFEE26EE94B9001DC547 /* decmsg3.txt */,
+				8170AFFA26EEB5FF001DC547 /* decmsg4.txt */,
 				8170AFE826EE8FD1001DC547 /* String+Encryption.swift */,
 				8170AFCE26EE8E31001DC547 /* CIEncryption.h */,
 				8170AFCF26EE8E31001DC547 /* Info.plist */,
@@ -243,6 +247,7 @@
 			files = (
 				8170AFE626EE8EA1001DC547 /* Podfile in Resources */,
 				8170AFF526EE94BA001DC547 /* decmsg1.txt in Resources */,
+				8170AFFB26EEB5FF001DC547 /* decmsg4.txt in Resources */,
 				8170AFEC26EE923A001DC547 /* encmsg.txt in Resources */,
 				8170AFF326EE94BA001DC547 /* decmsg2.txt in Resources */,
 				8170AFF126EE94BA001DC547 /* decmsg3.txt in Resources */,
@@ -256,6 +261,7 @@
 			files = (
 				8170AFE726EE8EA1001DC547 /* Podfile in Resources */,
 				8170AFF626EE94BA001DC547 /* decmsg1.txt in Resources */,
+				8170AFFC26EEB5FF001DC547 /* decmsg4.txt in Resources */,
 				8170AFED26EE923A001DC547 /* encmsg.txt in Resources */,
 				8170AFF426EE94BA001DC547 /* decmsg2.txt in Resources */,
 				8170AFF226EE94BA001DC547 /* decmsg3.txt in Resources */,
